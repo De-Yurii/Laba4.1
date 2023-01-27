@@ -1,0 +1,14 @@
+[2022.02.11 22:00:03] Program start
+[2022.02.11 22:00:11]  Opening values.bin file. Parametrs: X = 3.000000
+[2022.02.11 22:00:11]  Result is 1.582051
+[2022.02.11 22:00:11]  Output file output.bin saved
+[2022.02.11 22:00:11]  Program end
+[2022.03.11 9:14:50]  Program start
+[2022.03.11 9:15:00] Opening values.bin file. Parametrs: X = 3.000000
+[2022.03.11 9:15:00] Result is 1.582051
+[2022.03.11 9:15:00] Output file output.bin saved
+[2022.03.11 9:15:00] Program end
+[2022.03.11 9:15:47]  Program start
+[2022.03.11 9:15:54]  Opening values.bin file. Parametrs: X = 3.000000
+[2022.03.11 9:15:54]  Result is 1.582051[2022.03.11 9:15:54]  Output file output.txt saved
+[2022.03.11 9:15:54]  Program end
